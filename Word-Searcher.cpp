@@ -1,5 +1,5 @@
-// Name: JUNAID SALEEM       REG-NO:2022243
-// Name: MUNEEB BIN NASIR    REG-NO:2022463
+// Name: JUNAID SALEEM
+
 
 // Note: We have made this only for 3-character word search
 
