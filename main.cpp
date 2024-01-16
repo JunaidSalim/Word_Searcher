@@ -1,6 +1,3 @@
-// Name: JUNAID SALEEM
-
-
 // Note: We have made this only for 3-character word search
 
 #include <iostream>
